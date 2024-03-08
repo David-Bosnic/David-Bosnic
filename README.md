@@ -5,5 +5,5 @@ and to challenge myself not to make another wrapper for my API, ideally working 
 - 🕹️ I have been doing web and game development for about 2 years
 - 🧑🏻‍🎓 I graduated with a Information Science degree in Aug of 2023 with a minor in Physics
 - 🚀 Getting better at Vim everyday
-- 🖥️ Currently getting better at Javascript and Go 
+- 🖥️ Mainly work with Javascript and Go 
 - 📡 At home server enjoyer 
